@@ -7,6 +7,9 @@ Render: Very not like in original, have bugs, WIP
 Supported Archs: (Windows, Android)
 ARM32 (ARMv7), ARM64, X86, X64
 
+Minimal requirements for Android:
+OpenGL ES 3.0, Snapdragon 888 or more powerful SoC (Theoretical minimal support: Android 4.3, 32-Bit)
+
 Perfomance:
 --- Windows X64: ---
 RTX 3090
