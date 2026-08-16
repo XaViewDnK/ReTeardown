@@ -4,6 +4,9 @@ Current progress of 1.0.0 version:
 Physics: Very not like in original, have bugs, WIP
 Render: Very not like in original, have bugs, WIP
 
+Supported Archs: (Windows, Android)
+ARM32 (ARMv7), ARM64, X86, X64
+
 Perfomance:
 --- Windows X64: ---
 RTX 3090
