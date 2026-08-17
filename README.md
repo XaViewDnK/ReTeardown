@@ -22,3 +22,10 @@ Realme GT Neo 5 SE 16/1024GB
 Snapdragon 7+ Gen 2
 Average FPS without destructions: 44 FPS
 Average FPS with destructions: 22 FPS
+
+///
+
+<img width="1920" height="1080" alt="promo1" src="https://github.com/user-attachments/assets/11990877-f2a4-4f1a-9eae-7b84dae087f5" />
+<img width="1920" height="1080" alt="promo2" src="https://github.com/user-attachments/assets/0d991b6b-f874-42be-baea-ab061a801c32" />
+<img width="1920" height="1080" alt="promo3" src="https://github.com/user-attachments/assets/a26d2915-2517-4194-83b0-52edbd29438f" />
+<img width="1920" height="1080" alt="promo4" src="https://github.com/user-attachments/assets/b2b38359-1136-4164-8034-86cddfd9469b" />
