@@ -1,6 +1,6 @@
 # ReTeardown
 Reverse project of game "Teardown"
-Current progress of 1.0.0 version:
+Current progress of 1.0.1 version:
 Physics: Very not like in original, have bugs, WIP
 Render: Very not like in original, have bugs, WIP
 
@@ -8,7 +8,8 @@ Supported Archs: (Windows, Android)
 ARM32 (ARMv7), ARM64, X86, X64
 
 Minimal requirements for Android:
-OpenGL ES 3.0, Snapdragon 888 or more powerful SoC (Theoretical minimal support: Android 4.3, 32-Bit)
+Snapdragon 870 or more powerful SoC, 4GB RAM.
+*Theoretical minimal support: Android 4.3, ARMv7, OpenGL ES 2.0, 3 GB RAM
 
 Perfomance:
 --- Windows X64: ---
